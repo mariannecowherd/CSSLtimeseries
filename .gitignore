@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# local directory listings
+dirs.py
+
 # slurm job output
 slurm*
 
